@@ -70,10 +70,10 @@ const HomeContent = () => {
           <div className="metrics">
             <div style={{ display: "flex", alignItems: "center", gap: "10px" }}>
               <div>
-                <FontAwesomeIcon
-                  icon={faTachometerAlt}
-                  size="2x"
-                  color="#004085"
+              <img
+                  src="/menu.png"
+                  alt="Icon"
+                  style={{ width: "40px", height: "auto" }}
                 />
               </div>
 
